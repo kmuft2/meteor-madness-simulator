@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2025 Meteor Madness Simulator Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY DATA LICENSES:
+
+This software uses data from external sources with their own licenses:
+
+1. GEBCO Bathymetry Data
+   - License: Public domain with attribution required
+   - Citation: GEBCO Compilation Group (2025) GEBCO 2025 Grid
+     (doi:10.5285/37c52e96-24ea-67ce-e063-7086abc05f29)
+   - Terms: https://www.gebco.net/data_and_products/gridded_bathymetry_data/
+
+2. WorldPop Population Data
+   - License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+   - Citation: WorldPop (www.worldpop.org)
+   - Terms: https://www.worldpop.org/data/data_sources
+
+3. NASA Near-Earth Object (NEO) Data
+   - License: U.S. Government work, public domain
+   - Source: NASA/JPL Center for NEO Studies
+   - Terms: https://api.nasa.gov/
+
+4. USGS Data
+   - License: U.S. Government work, public domain
+   - Source: United States Geological Survey
+   - Terms: https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
+
+Users must comply with the terms of use for all external data sources.

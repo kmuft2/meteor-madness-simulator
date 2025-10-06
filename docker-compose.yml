@@ -1,0 +1,43 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: meteor-madness-backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      # API keys loaded from .env file
+      - NASA_API_KEY=${NASA_API_KEY}
+      - NASA_NEO_API_URL=${NASA_NEO_API_URL:-https://api.nasa.gov/neo/rest/v1/}
+      - NASA_SBDB_API_URL=${NASA_SBDB_API_URL:-https://ssd-api.jpl.nasa.gov/sbdb.api}
+      - USGS_EARTHQUAKE_API_URL=${USGS_EARTHQUAKE_API_URL:-https://earthquake.usgs.gov/fdsnws/event/1/}
+      - DEBUG=${DEBUG:-true}
+      # CUDA configuration
+      - CUDA_HOME=/usr/local/cuda
+      - CUDA_PATH=/usr/local/cuda
+      - PATH=/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+      - LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/lib/x86_64-linux-gnu
+    volumes:
+      - ./data:/app/data
+      - ./backend:/app/backend
+    restart: unless-stopped
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+networks:
+  default:
+    name: meteor-madness-network

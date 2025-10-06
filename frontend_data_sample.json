@@ -1,0 +1,1123 @@
+{
+  "impact_location": {
+    "latitude": 0,
+    "longitude": 0,
+    "impact_angle_deg": 45,
+    "azimuth_deg": 90.0,
+    "impact_point": [
+      0,
+      0
+    ]
+  },
+  "trajectory": [
+    {
+      "time": 0.0,
+      "altitude_km": 100.52320996574218,
+      "velocity_km_s": 7.399306295213575,
+      "horizontal_distance_km": 0.5232099657421829,
+      "dynamic_pressure_pa": 260.70013607508264,
+      "atmospheric_density": 9.523338971466896e-06
+    },
+    {
+      "time": 0.1,
+      "altitude_km": 101.04637087928836,
+      "velocity_km_s": 7.398612592405039,
+      "horizontal_distance_km": 1.0463708792883613,
+      "dynamic_pressure_pa": 245.09091311925891,
+      "atmospheric_density": 8.954815264541565e-06
+    },
+    {
+      "time": 0.2,
+      "altitude_km": 101.56948274077001,
+      "velocity_km_s": 7.3979188914558,
+      "horizontal_distance_km": 1.5694827407700076,
+      "dynamic_pressure_pa": 230.4176063166623,
+      "atmospheric_density": 8.420279843071758e-06
+    },
+    {
+      "time": 0.30000000000000004,
+      "altitude_km": 102.0925455503107,
+      "velocity_km_s": 7.397225192254387,
+      "horizontal_distance_km": 2.092545550310712,
+      "dynamic_pressure_pa": 216.62401964989016,
+      "atmospheric_density": 7.917697875456743e-06
+    },
+    {
+      "time": 0.4,
+      "altitude_km": 102.61555930802666,
+      "velocity_km_s": 7.396531494696021,
+      "horizontal_distance_km": 2.6155593080266546,
+      "dynamic_pressure_pa": 203.65733607259008,
+      "atmospheric_density": 7.445156525502077e-06
+    },
+    {
+      "time": 0.5,
+      "altitude_km": 103.13852401402704,
+      "velocity_km_s": 7.395837798682211,
+      "horizontal_distance_km": 3.1385240140270527,
+      "dynamic_pressure_pa": 191.46791405308355,
+      "atmospheric_density": 7.000857628027343e-06
+    },
+    {
+      "time": 0.6,
+      "altitude_km": 103.66143966841457,
+      "velocity_km_s": 7.395144104120383,
+      "horizontal_distance_km": 3.6614396684145762,
+      "dynamic_pressure_pa": 180.0090963857122,
+      "atmospheric_density": 6.583110804836394e-06
+    },
+    {
+      "time": 0.7,
+      "altitude_km": 104.18430627128575,
+      "velocity_km_s": 7.394450410923513,
+      "horizontal_distance_km": 4.1843062712857435,
+      "dynamic_pressure_pa": 169.23703052917165,
+      "atmospheric_density": 6.190326994537041e-06
+    },
+    {
+      "time": 0.7999999999999999,
+      "altitude_km": 104.70712382273129,
+      "velocity_km_s": 7.393756719009806,
+      "horizontal_distance_km": 4.707123822731287,
+      "dynamic_pressure_pa": 159.1104997758952,
+      "atmospheric_density": 5.82101237129601e-06
+    },
+    {
+      "time": 0.8999999999999999,
+      "altitude_km": 105.2298923228365,
+      "velocity_km_s": 7.393063028302373,
+      "horizontal_distance_km": 5.229892322836503,
+      "dynamic_pressure_pa": 149.59076459861433,
+      "atmospheric_density": 5.473762629116519e-06
+    },
+    {
+      "time": 0.9999999999999999,
+      "altitude_km": 105.75261177168157,
+      "velocity_km_s": 7.392369338728938,
+      "horizontal_distance_km": 5.752611771681578,
+      "dynamic_pressure_pa": 140.64141355975872,
+      "atmospheric_density": 5.147257609637409e-06
+    },
+    {
+      "time": 1.0999999999999999,
+      "altitude_km": 106.27528216934189,
+      "velocity_km_s": 7.391675650221563,
+      "horizontal_distance_km": 6.275282169341893,
+      "dynamic_pressure_pa": 132.22822320649897,
+      "atmospheric_density": 4.840256252779046e-06
+    },
+    {
+      "time": 1.2,
+      "altitude_km": 106.79790351588832,
+      "velocity_km_s": 7.390981962716386,
+      "horizontal_distance_km": 6.797903515888314,
+      "dynamic_pressure_pa": 124.3190264091064,
+      "atmospheric_density": 4.5515918508067045e-06
+    },
+    {
+      "time": 1.3,
+      "altitude_km": 107.32047581138747,
+      "velocity_km_s": 7.390288276153375,
+      "horizontal_distance_km": 7.320475811387463,
+      "dynamic_pressure_pa": 116.883588633102,
+      "atmospheric_density": 4.280167587553749e-06
+    },
+    {
+      "time": 1.4000000000000001,
+      "altitude_km": 107.84299905590198,
+      "velocity_km_s": 7.389594590476099,
+      "horizontal_distance_km": 7.842999055901971,
+      "dynamic_pressure_pa": 109.89349166643923,
+      "atmospheric_density": 4.024952345646465e-06
+    },
+    {
+      "time": 1.5000000000000002,
+      "altitude_km": 108.36547324949072,
+      "velocity_km_s": 7.388900905631513,
+      "horizontal_distance_km": 8.365473249490716,
+      "dynamic_pressure_pa": 103.32202435190769,
+      "atmospheric_density": 3.7849767656066688e-06
+    },
+    {
+      "time": 1.6000000000000003,
+      "altitude_km": 108.88789839220905,
+      "velocity_km_s": 7.388207221569753,
+      "horizontal_distance_km": 8.887898392209056,
+      "dynamic_pressure_pa": 97.14407990211863,
+      "atmospheric_density": 3.559329541679496e-06
+    },
+    {
+      "time": 1.7000000000000004,
+      "altitude_km": 109.41027448410904,
+      "velocity_km_s": 7.387513538243945,
+      "horizontal_distance_km": 9.410274484109028,
+      "dynamic_pressure_pa": 91.33605939996505,
+      "atmospheric_density": 3.347153940146533e-06
+    },
+    {
+      "time": 1.8000000000000005,
+      "altitude_km": 109.93260152523956,
+      "velocity_km_s": 7.386819855610025,
+      "horizontal_distance_km": 9.932601525239555,
+      "dynamic_pressure_pa": 85.87578111144231,
+      "atmospheric_density": 3.147644526742343e-06
+    },
+    {
+      "time": 1.9000000000000006,
+      "altitude_km": 110.45487951564664,
+      "velocity_km_s": 7.386126173626571,
+      "horizontal_distance_km": 10.454879515646635,
+      "dynamic_pressure_pa": 80.7423952602526,
+      "atmospheric_density": 2.9600440905984636e-06
+    },
+    {
+      "time": 2.0000000000000004,
+      "altitude_km": 110.97710845537351,
+      "velocity_km_s": 7.385432492254645,
+      "horizontal_distance_km": 10.977108455373507,
+      "dynamic_pressure_pa": 75.91630393478792,
+      "atmospheric_density": 2.7836407528961934e-06
+    },
+    {
+      "time": 2.1000000000000005,
+      "altitude_km": 111.49928834446084,
+      "velocity_km_s": 7.384738811457644,
+      "horizontal_distance_km": 11.499288344460824,
+      "dynamic_pressure_pa": 71.37908581798413,
+      "atmospheric_density": 2.6177652491213982e-06
+    },
+    {
+      "time": 2.2000000000000006,
+      "altitude_km": 112.02141918294681,
+      "velocity_km_s": 7.384045131201156,
+      "horizontal_distance_km": 12.02141918294681,
+      "dynamic_pressure_pa": 67.1134254492293,
+      "atmospheric_density": 2.4617883744833334e-06
+    },
+    {
+      "time": 2.3000000000000007,
+      "altitude_km": 112.5435009708674,
+      "velocity_km_s": 7.383351451452836,
+      "horizontal_distance_km": 12.543500970867393,
+      "dynamic_pressure_pa": 63.10304674506692,
+      "atmospheric_density": 2.315118582687851e-06
+    },
+    {
+      "time": 2.400000000000001,
+      "altitude_km": 113.06553370825637,
+      "velocity_km_s": 7.382657772182274,
+      "horizontal_distance_km": 13.065533708256359,
+      "dynamic_pressure_pa": 59.33265052193608,
+      "atmospheric_density": 2.17719972884604e-06
+    },
+    {
+      "time": 2.500000000000001,
+      "altitude_km": 113.58751739514548,
+      "velocity_km_s": 7.381964093360883,
+      "horizontal_distance_km": 13.587517395145467,
+      "dynamic_pressure_pa": 55.787855779692634,
+      "atmospheric_density": 2.0475089478543647e-06
+    },
+    {
+      "time": 2.600000000000001,
+      "altitude_km": 114.10945203156459,
+      "velocity_km_s": 7.38127041496179,
+      "horizontal_distance_km": 14.10945203156458,
+      "dynamic_pressure_pa": 52.45514451921572,
+      "atmospheric_density": 1.9255546601037252e-06
+    },
+    {
+      "time": 2.700000000000001,
+      "altitude_km": 114.63133761754177,
+      "velocity_km_s": 7.380576736959732,
+      "horizontal_distance_km": 14.631337617541769,
+      "dynamic_pressure_pa": 49.32180988109236,
+      "atmospheric_density": 1.81087469686516e-06
+    },
+    {
+      "time": 2.800000000000001,
+      "altitude_km": 115.15317415310345,
+      "velocity_km_s": 7.379883059330957,
+      "horizontal_distance_km": 15.153174153103434,
+      "dynamic_pressure_pa": 46.37590740522558,
+      "atmospheric_density": 1.7030345381602813e-06
+    },
+    {
+      "time": 2.9000000000000012,
+      "altitude_km": 115.6749616382744,
+      "velocity_km_s": 7.379189382053139,
+      "horizontal_distance_km": 15.674961638274388,
+      "dynamic_pressure_pa": 43.60620922329208,
+      "atmospheric_density": 1.6016256563573873e-06
+    },
+    {
+      "time": 3.0000000000000013,
+      "altitude_km": 116.19670007307796,
+      "velocity_km_s": 7.378495705105287,
+      "horizontal_distance_km": 16.196700073077963,
+      "dynamic_pressure_pa": 41.00216100732766,
+      "atmospheric_density": 1.5062639591410014e-06
+    },
+    {
+      "time": 3.1000000000000014,
+      "altitude_km": 116.7183894575361,
+      "velocity_km_s": 7.377802028467669,
+      "horizontal_distance_km": 16.7183894575361,
+      "dynamic_pressure_pa": 38.55384150837658,
+      "atmospheric_density": 1.4165883258845766e-06
+    },
+    {
+      "time": 3.2000000000000015,
+      "altitude_km": 117.24002979166943,
+      "velocity_km_s": 7.377108352121735,
+      "horizontal_distance_km": 17.24002979166942,
+      "dynamic_pressure_pa": 36.251924529166736,
+      "atmospheric_density": 1.3322592318155224e-06
+    },
+    {
+      "time": 3.3000000000000016,
+      "altitude_km": 117.76162107549732,
+      "velocity_km_s": 7.376414676050043,
+      "horizontal_distance_km": 17.761621075497317,
+      "dynamic_pressure_pa": 34.08764318418104,
+      "atmospheric_density": 1.2529574546990465e-06
+    },
+    {
+      "time": 3.4000000000000017,
+      "altitude_km": 118.28316330903802,
+      "velocity_km_s": 7.375721000236198,
+      "horizontal_distance_km": 18.283163309038024,
+      "dynamic_pressure_pa": 32.05275630934446,
+      "atmospheric_density": 1.1783828590846446e-06
+    },
+    {
+      "time": 3.5000000000000018,
+      "altitude_km": 118.80465649230867,
+      "velocity_km_s": 7.375027324664785,
+      "horizontal_distance_km": 18.804656492308677,
+      "dynamic_pressure_pa": 30.139516891854267,
+      "atmospheric_density": 1.1082532534570715e-06
+    },
+    {
+      "time": 3.600000000000002,
+      "altitude_km": 119.32610062532538,
+      "velocity_km_s": 7.374333649321312,
+      "horizontal_distance_km": 19.326100625325402,
+      "dynamic_pressure_pa": 28.340642398492452,
+      "atmospheric_density": 1.0423033159138529e-06
+    },
+    {
+      "time": 3.700000000000002,
+      "altitude_km": 119.84749570810334,
+      "velocity_km_s": 7.373639974192156,
+      "horizontal_distance_km": 19.84749570810335,
+      "dynamic_pressure_pa": 26.649286888093897,
+      "atmospheric_density": 9.802835842545833e-07
+    },
+    {
+      "time": 3.800000000000002,
+      "altitude_km": 120.36884174065676,
+      "velocity_km_s": 7.372946299264509,
+      "horizontal_distance_km": 20.36884174065677,
+      "dynamic_pressure_pa": 25.059014800740417,
+      "atmospheric_density": 9.219595066147464e-07
+    },
+    {
+      "time": 3.900000000000002,
+      "altitude_km": 120.89013872299905,
+      "velocity_km_s": 7.372252624526327,
+      "horizontal_distance_km": 20.89013872299906,
+      "dynamic_pressure_pa": 23.563776322727026,
+      "atmospheric_density": 8.671105490092648e-07
+    },
+    {
+      "time": 4.000000000000002,
+      "altitude_km": 121.4113866551428,
+      "velocity_km_s": 7.37155894996629,
+      "horizontal_distance_km": 21.411386655142813,
+      "dynamic_pressure_pa": 22.15788423243417,
+      "atmospheric_density": 8.155293563695263e-07
+    },
+    {
+      "time": 4.100000000000001,
+      "altitude_km": 121.93258553709988,
+      "velocity_km_s": 7.370865275573754,
+      "horizontal_distance_km": 21.93258553709988,
+      "dynamic_pressure_pa": 20.835992137958442,
+      "atmospheric_density": 7.670209638629832e-07
+    },
+    {
+      "time": 4.200000000000001,
+      "altitude_km": 122.45373536888138,
+      "velocity_km_s": 7.370171601338712,
+      "horizontal_distance_km": 22.453735368881393,
+      "dynamic_pressure_pa": 19.593074022728935,
+      "atmospheric_density": 7.21402055477446e-07
+    },
+    {
+      "time": 4.300000000000001,
+      "altitude_km": 122.97483615049782,
+      "velocity_km_s": 7.369477927251756,
+      "horizontal_distance_km": 22.974836150497826,
+      "dynamic_pressure_pa": 18.424405020385148,
+      "atmospheric_density": 6.785002670335558e-07
+    },
+    {
+      "time": 4.4,
+      "altitude_km": 123.49588788195902,
+      "velocity_km_s": 7.368784253304041,
+      "horizontal_distance_km": 23.495887881959018,
+      "dynamic_pressure_pa": 17.325543344937245,
+      "atmospheric_density": 6.3815353095938e-07
+    },
+    {
+      "time": 4.5,
+      "altitude_km": 124.01689056327425,
+      "velocity_km_s": 7.368090579487248,
+      "horizontal_distance_km": 24.01689056327423,
+      "dynamic_pressure_pa": 16.29231330668862,
+      "atmospheric_density": 6.002094603213255e-07
+    },
+    {
+      "time": 4.6,
+      "altitude_km": 124.53784419445218,
+      "velocity_km_s": 7.36739690579356,
+      "horizontal_distance_km": 24.537844194452173,
+      "dynamic_pressure_pa": 15.320789348588816,
+      "atmospheric_density": 5.645247697560768e-07
+    },
+    {
+      "time": 4.699999999999999,
+      "altitude_km": 125.05874877550102,
+      "velocity_km_s": 7.366703232215626,
+      "horizontal_distance_km": 25.058748775501027,
+      "dynamic_pressure_pa": 14.40728104162224,
+      "atmospheric_density": 5.309647310898099e-07
+    },
+    {
+      "time": 4.799999999999999,
+      "altitude_km": 125.5796043064285,
+      "velocity_km_s": 7.366009558746533,
+      "horizontal_distance_km": 25.579604306428486,
+      "dynamic_pressure_pa": 13.548318981536978,
+      "atmospheric_density": 4.994026615639233e-07
+    },
+    {
+      "time": 4.899999999999999,
+      "altitude_km": 126.1004107872418,
+      "velocity_km_s": 7.3653158853797835,
+      "horizontal_distance_km": 26.100410787241792,
+      "dynamic_pressure_pa": 12.740641532693502,
+      "atmospheric_density": 4.697194427115029e-07
+    },
+    {
+      "time": 4.999999999999998,
+      "altitude_km": 126.62116821794775,
+      "velocity_km_s": 7.364622212109267,
+      "horizontal_distance_km": 26.621168217947748,
+      "dynamic_pressure_pa": 11.981182368079565,
+      "atmospheric_density": 4.418030680462313e-07
+    },
+    {
+      "time": 5.099999999999998,
+      "altitude_km": 127.14187659855276,
+      "velocity_km_s": 7.363928538929239,
+      "horizontal_distance_km": 27.141876598552745,
+      "dynamic_pressure_pa": 11.267058757606529,
+      "atmospheric_density": 4.155482178358472e-07
+    },
+    {
+      "time": 5.1999999999999975,
+      "altitude_km": 127.66253592906283,
+      "velocity_km_s": 7.363234865834299,
+      "horizontal_distance_km": 27.662535929062813,
+      "dynamic_pressure_pa": 10.59556055968631,
+      "atmospheric_density": 3.9085585933603354e-07
+    },
+    {
+      "time": 5.299999999999997,
+      "altitude_km": 128.18314620948362,
+      "velocity_km_s": 7.362541192819368,
+      "horizontal_distance_km": 28.1831462094836,
+      "dynamic_pressure_pa": 9.964139873798308,
+      "atmospheric_density": 3.6763287095813635e-07
+    },
+    {
+      "time": 5.399999999999997,
+      "altitude_km": 128.70370743982045,
+      "velocity_km_s": 7.361847519879672,
+      "horizontal_distance_km": 28.703707439820427,
+      "dynamic_pressure_pa": 9.37040131430243,
+      "atmospheric_density": 3.4579168893579195e-07
+    },
+    {
+      "time": 5.4999999999999964,
+      "altitude_km": 129.22421962007832,
+      "velocity_km_s": 7.36115384701072,
+      "horizontal_distance_km": 29.2242196200783,
+      "dynamic_pressure_pa": 8.812092868146953,
+      "atmospheric_density": 3.252499751416676e-07
+    },
+    {
+      "time": 5.599999999999996,
+      "altitude_km": 129.74468275026192,
+      "velocity_km_s": 7.360460174208292,
+      "horizontal_distance_km": 29.74468275026192,
+      "dynamic_pressure_pa": 8.287097301369137,
+      "atmospheric_density": 3.0593030478651194e-07
+    },
+    {
+      "time": 5.699999999999996,
+      "altitude_km": 130.26509683037574,
+      "velocity_km_s": 7.35976650146842,
+      "horizontal_distance_km": 30.26509683037571,
+      "dynamic_pressure_pa": 7.793424081399717,
+      "atmospheric_density": 2.877598728088148e-07
+    },
+    {
+      "time": 5.799999999999995,
+      "altitude_km": 130.78546186042385,
+      "velocity_km_s": 7.35907282878737,
+      "horizontal_distance_km": 30.78546186042383,
+      "dynamic_pressure_pa": 7.3292017841677835,
+      "atmospheric_density": 2.7067021783488747e-07
+    },
+    {
+      "time": 5.899999999999995,
+      "altitude_km": 131.3057778404102,
+      "velocity_km_s": 7.358379156161634,
+      "horizontal_distance_km": 31.305777840410194,
+      "dynamic_pressure_pa": 6.892670956869122,
+      "atmospheric_density": 2.545969626564244e-07
+    },
+    {
+      "time": 5.999999999999995,
+      "altitude_km": 131.82604477033848,
+      "velocity_km_s": 7.357685483587914,
+      "horizontal_distance_km": 31.826044770338477,
+      "dynamic_pressure_pa": 6.4821774090144695,
+      "atmospheric_density": 2.394795702357862e-07
+    },
+    {
+      "time": 6.099999999999994,
+      "altitude_km": 132.34626265021217,
+      "velocity_km_s": 7.356991811063106,
+      "horizontal_distance_km": 32.34626265021214,
+      "dynamic_pressure_pa": 6.096165906022059,
+      "atmospheric_density": 2.2526111430863383e-07
+    },
+    {
+      "time": 6.199999999999994,
+      "altitude_km": 132.86643148003446,
+      "velocity_km_s": 7.356298138584294,
+      "horizontal_distance_km": 32.866431480034436,
+      "dynamic_pressure_pa": 5.733174241167545,
+      "atmospheric_density": 2.1188806370937266e-07
+    },
+    {
+      "time": 6.299999999999994,
+      "altitude_km": 133.38655125980844,
+      "velocity_km_s": 7.355604466148735,
+      "horizontal_distance_km": 33.386551259808414,
+      "dynamic_pressure_pa": 5.3918276631597815,
+      "atmospheric_density": 1.9931007959733473e-07
+    },
+    {
+      "time": 6.399999999999993,
+      "altitude_km": 133.906621989537,
+      "velocity_km_s": 7.3549107937538505,
+      "horizontal_distance_km": 33.906621989536966,
+      "dynamic_pressure_pa": 5.070833637978199,
+      "atmospheric_density": 1.874798248109316e-07
+    },
+    {
+      "time": 6.499999999999993,
+      "altitude_km": 134.42664366922284,
+      "velocity_km_s": 7.354217121397214,
+      "horizontal_distance_km": 34.42664366922278,
+      "dynamic_pressure_pa": 4.768976924893111,
+      "atmospheric_density": 1.76352784623378e-07
+    },
+    {
+      "time": 6.5999999999999925,
+      "altitude_km": 134.94661629886846,
+      "velocity_km_s": 7.3535234490765475,
+      "horizontal_distance_km": 34.946616298868406,
+      "dynamic_pressure_pa": 4.485114947798063,
+      "atmospheric_density": 1.6588709821715407e-07
+    },
+    {
+      "time": 6.699999999999992,
+      "altitude_km": 135.46653987847628,
+      "velocity_km_s": 7.352829776789705,
+      "horizontal_distance_km": 35.46653987847624,
+      "dynamic_pressure_pa": 4.218173444118,
+      "atmospheric_density": 1.560434002353132e-07
+    },
+    {
+      "time": 6.799999999999992,
+      "altitude_km": 135.98641440804857,
+      "velocity_km_s": 7.352136104534673,
+      "horizontal_distance_km": 35.98641440804853,
+      "dynamic_pressure_pa": 3.9671423746242334,
+      "atmospheric_density": 1.4678467180625424e-07
+    },
+    {
+      "time": 6.8999999999999915,
+      "altitude_km": 136.50623988758744,
+      "velocity_km_s": 7.351442432309554,
+      "horizontal_distance_km": 36.5062398875874,
+      "dynamic_pressure_pa": 3.7310720784892233,
+      "atmospheric_density": 1.3807610047474327e-07
+    },
+    {
+      "time": 6.999999999999991,
+      "altitude_km": 137.02601631709484,
+      "velocity_km_s": 7.350748760112565,
+      "horizontal_distance_km": 37.02601631709482,
+      "dynamic_pressure_pa": 3.5090696588564665,
+      "atmospheric_density": 1.2988494850598648e-07
+    },
+    {
+      "time": 7.099999999999991,
+      "altitude_km": 137.54574369657269,
+      "velocity_km_s": 7.35005508794203,
+      "horizontal_distance_km": 37.54574369657267,
+      "dynamic_pressure_pa": 3.3002955850860802,
+      "atmospheric_density": 1.2218042906152066e-07
+    },
+    {
+      "time": 7.19999999999999,
+      "altitude_km": 138.06542202602276,
+      "velocity_km_s": 7.349361415796373,
+      "horizontal_distance_km": 38.06542202602271,
+      "dynamic_pressure_pa": 3.1039604986686498,
+      "atmospheric_density": 1.1493358977573308e-07
+    },
+    {
+      "time": 7.29999999999999,
+      "altitude_km": 138.58505130544663,
+      "velocity_km_s": 7.348667743674113,
+      "horizontal_distance_km": 38.58505130544659,
+      "dynamic_pressure_pa": 2.9193222105819547,
+      "atmospheric_density": 1.0811720329007057e-07
+    },
+    {
+      "time": 7.39999999999999,
+      "altitude_km": 139.1046315348459,
+      "velocity_km_s": 7.347974071573855,
+      "horizontal_distance_km": 39.10463153484587,
+      "dynamic_pressure_pa": 2.745682878600015,
+      "atmospheric_density": 1.0170566432854336e-07
+    },
+    {
+      "time": 7.499999999999989,
+      "altitude_km": 139.62416271422208,
+      "velocity_km_s": 7.347280399494289,
+      "horizontal_distance_km": 39.62416271422202,
+      "dynamic_pressure_pa": 2.5823863537544267,
+      "atmospheric_density": 9.567489292308103e-08
+    },
+    {
+      "time": 7.599999999999989,
+      "altitude_km": 140.14364484357645,
+      "velocity_km_s": 7.346586727434182,
+      "horizontal_distance_km": 40.143644843576396,
+      "dynamic_pressure_pa": 2.428815685797289,
+      "atmospheric_density": 9.000224342076413e-08
+    },
+    {
+      "time": 7.699999999999989,
+      "altitude_km": 140.66307792291036,
+      "velocity_km_s": 7.345893055392375,
+      "horizontal_distance_km": 40.663077922910304,
+      "dynamic_pressure_pa": 2.2843907781247816,
+      "atmospheric_density": 8.466641892699656e-08
+    },
+    {
+      "time": 7.799999999999988,
+      "altitude_km": 141.18246195222503,
+      "velocity_km_s": 7.345199383367779,
+      "horizontal_distance_km": 41.18246195222497,
+      "dynamic_pressure_pa": 2.1485661831937866,
+      "atmospheric_density": 7.964739085941004e-08
+    },
+    {
+      "time": 7.899999999999988,
+      "altitude_km": 141.70179693152156,
+      "velocity_km_s": 7.34450571135937,
+      "horizontal_distance_km": 41.70179693152152,
+      "dynamic_pressure_pa": 2.0208290300029845,
+      "atmospheric_density": 7.49263233067853e-08
+    },
+    {
+      "time": 7.999999999999988,
+      "altitude_km": 142.2210828608011,
+      "velocity_km_s": 7.343812039366183,
+      "horizontal_distance_km": 42.22108286080105,
+      "dynamic_pressure_pa": 1.9006970757158328,
+      "atmospheric_density": 7.048550190557248e-08
+    },
+    {
+      "time": 8.099999999999987,
+      "altitude_km": 142.7403197400646,
+      "velocity_km_s": 7.343118367387312,
+      "horizontal_distance_km": 42.74031974006455,
+      "dynamic_pressure_pa": 1.787716873979134,
+      "atmospheric_density": 6.630826696382374e-08
+    },
+    {
+      "time": 8.199999999999987,
+      "altitude_km": 143.25950756931303,
+      "velocity_km_s": 7.342424695421904,
+      "horizontal_distance_km": 43.259507569312994,
+      "dynamic_pressure_pa": 1.6814620529380033,
+      "atmospheric_density": 6.23789505785263e-08
+    },
+    {
+      "time": 8.299999999999986,
+      "altitude_km": 143.77864634854728,
+      "velocity_km_s": 7.341731023469159,
+      "horizontal_distance_km": 43.77864634854726,
+      "dynamic_pressure_pa": 1.581531696368382,
+      "atmospheric_density": 5.868281750753497e-08
+    },
+    {
+      "time": 8.399999999999986,
+      "altitude_km": 144.2977360777682,
+      "velocity_km_s": 7.341037351528324,
+      "horizontal_distance_km": 44.29773607776821,
+      "dynamic_pressure_pa": 1.4875488217434951,
+      "atmospheric_density": 5.520600957160877e-08
+    },
+    {
+      "time": 8.499999999999986,
+      "altitude_km": 144.81677675697662,
+      "velocity_km_s": 7.340343679598688,
+      "horizontal_distance_km": 44.81677675697661,
+      "dynamic_pressure_pa": 1.3991589494219054,
+      "atmospheric_density": 5.1935493375495545e-08
+    },
+    {
+      "time": 8.599999999999985,
+      "altitude_km": 145.33576838617324,
+      "velocity_km_s": 7.3396500076795865,
+      "horizontal_distance_km": 45.33576838617322,
+      "dynamic_pressure_pa": 1.3160287574937974,
+      "atmospheric_density": 4.885901114964344e-08
+    },
+    {
+      "time": 8.699999999999985,
+      "altitude_km": 145.85471096535878,
+      "velocity_km_s": 7.338956335770391,
+      "horizontal_distance_km": 45.85471096535875,
+      "dynamic_pressure_pa": 1.2378448171501661,
+      "atmospheric_density": 4.59650345259982e-08
+    },
+    {
+      "time": 8.799999999999985,
+      "altitude_km": 146.37360449453385,
+      "velocity_km_s": 7.3382626638705135,
+      "horizontal_distance_km": 46.373604494533836,
+      "dynamic_pressure_pa": 1.1643124037479895,
+      "atmospheric_density": 4.324272107251521e-08
+    },
+    {
+      "time": 8.899999999999984,
+      "altitude_km": 146.89244897369912,
+      "velocity_km_s": 7.337568991979398,
+      "horizontal_distance_km": 46.89244897369912,
+      "dynamic_pressure_pa": 1.0951543790340021,
+      "atmospheric_density": 4.068187342150425e-08
+    },
+    {
+      "time": 8.999999999999984,
+      "altitude_km": 147.41124440285517,
+      "velocity_km_s": 7.336875320096525,
+      "horizontal_distance_km": 47.41124440285516,
+      "dynamic_pressure_pa": 1.0301101402622643,
+      "atmospheric_density": 3.8272900836801315e-08
+    },
+    {
+      "time": 9.099999999999984,
+      "altitude_km": 147.92999078200253,
+      "velocity_km_s": 7.336181648221405,
+      "horizontal_distance_km": 47.92999078200253,
+      "dynamic_pressure_pa": 0.9689346321966057,
+      "atmospheric_density": 3.600678307403511e-08
+    },
+    {
+      "time": 9.199999999999983,
+      "altitude_km": 148.44868811114173,
+      "velocity_km_s": 7.335487976353575,
+      "horizontal_distance_km": 48.44868811114173,
+      "dynamic_pressure_pa": 0.9113974182295261,
+      "atmospheric_density": 3.3875036396973315e-08
+    },
+    {
+      "time": 9.299999999999983,
+      "altitude_km": 148.96733639027323,
+      "velocity_km_s": 7.334794304492602,
+      "horizontal_distance_km": 48.967336390273246,
+      "dynamic_pressure_pa": 0.8572818070754409,
+      "atmospheric_density": 3.18696816211378e-08
+    },
+    {
+      "time": 9.399999999999983,
+      "altitude_km": 149.48593561939754,
+      "velocity_km_s": 7.334100632638079,
+      "horizontal_distance_km": 49.48593561939754,
+      "dynamic_pressure_pa": 0.806384031708544,
+      "atmospheric_density": 2.9983214063579444e-08
+    },
+    {
+      "time": 9.499999999999982,
+      "altitude_km": 150.00448579851502,
+      "velocity_km_s": 7.333406960789622,
+      "horizontal_distance_km": 50.004485798515034,
+      "dynamic_pressure_pa": 0.7585124774154453,
+      "atmospheric_density": 2.8208575284952003e-08
+    },
+    {
+      "time": 9.599999999999982,
+      "altitude_km": 150.52298692762614,
+      "velocity_km_s": 7.332713288946869,
+      "horizontal_distance_km": 50.52298692762614,
+      "dynamic_pressure_pa": 0.7134869560204334,
+      "atmospheric_density": 2.6539126516832903e-08
+    },
+    {
+      "time": 9.699999999999982,
+      "altitude_km": 151.04143900673122,
+      "velocity_km_s": 7.332019617109483,
+      "horizontal_distance_km": 51.04143900673123,
+      "dynamic_pressure_pa": 0.6711380235177836,
+      "atmospheric_density": 2.496862367364484e-08
+    },
+    {
+      "time": 9.799999999999981,
+      "altitude_km": 151.55984203583066,
+      "velocity_km_s": 7.331325945277144,
+      "horizontal_distance_km": 51.55984203583067,
+      "dynamic_pressure_pa": 0.6313063385112757,
+      "atmospheric_density": 2.349119385454634e-08
+    },
+    {
+      "time": 9.89999999999998,
+      "altitude_km": 152.07819601492477,
+      "velocity_km_s": 7.330632273449552,
+      "horizontal_distance_km": 52.078196014924785,
+      "dynamic_pressure_pa": 0.5938420590172131,
+      "atmospheric_density": 2.21013132463258e-08
+    }
+  ],
+  "impact_effects": {
+    "energy_mt": 555.3867836381045,
+    "crater_diameter_m": 7883.635277672031,
+    "thermal_radius_km": 2967.420064849235,
+    "overpressure_radius_km": 17.67272990720123,
+    "seismic_magnitude": 6.2107914777529025
+  },
+  "orbital_trajectory": [
+    {
+      "x": 0.6506918166069229,
+      "y": -0.362969830626054,
+      "z": 0.03488392552561057,
+      "index": 0
+    },
+    {
+      "x": 0.7093278097549639,
+      "y": -0.23559836433071243,
+      "z": 0.029542546332572698,
+      "index": 1
+    },
+    {
+      "x": 0.7470712239182812,
+      "y": -0.10127539971366006,
+      "z": 0.02333037426715367,
+      "index": 2
+    },
+    {
+      "x": 0.7633476806511094,
+      "y": 0.03597955515269306,
+      "z": 0.016446649427819104,
+      "index": 3
+    },
+    {
+      "x": 0.7585373129433646,
+      "y": 0.17226993573725335,
+      "z": 0.009107045403617986,
+      "index": 4
+    },
+    {
+      "x": 0.7338341446177528,
+      "y": 0.30407740009384293,
+      "z": 0.0015267574044164926,
+      "index": 5
+    },
+    {
+      "x": 0.6910419229885748,
+      "y": 0.4284283218399185,
+      "z": -0.006093231485552833,
+      "index": 6
+    },
+    {
+      "x": 0.6323544842531471,
+      "y": 0.5429666908605204,
+      "z": -0.013575295173155606,
+      "index": 7
+    },
+    {
+      "x": 0.560157442902276,
+      "y": 0.6459498640981889,
+      "z": -0.02076970745375933,
+      "index": 8
+    },
+    {
+      "x": 0.4768710782062555,
+      "y": 0.7361928664316395,
+      "z": -0.027555467323273793,
+      "index": 9
+    },
+    {
+      "x": 0.3848393979309382,
+      "y": 0.8129862678903433,
+      "z": -0.03383861345638802,
+      "index": 10
+    },
+    {
+      "x": 0.2862608516468071,
+      "y": 0.8760067699047789,
+      "z": -0.03954915082317397,
+      "index": 11
+    },
+    {
+      "x": 0.1831519289648098,
+      "y": 0.9252325978710301,
+      "z": -0.04463744138418373,
+      "index": 12
+    },
+    {
+      "x": 0.07733426041461924,
+      "y": 0.9608698847525837,
+      "z": -0.049070612264474595,
+      "index": 13
+    },
+    {
+      "x": -0.029562907575819298,
+      "y": 0.9832921517451432,
+      "z": -0.052829288474810096,
+      "index": 14
+    },
+    {
+      "x": -0.13609110840689465,
+      "y": 0.992992594302465,
+      "z": -0.05590478486699998,
+      "index": 15
+    },
+    {
+      "x": -0.2409663348051843,
+      "y": 0.9905477088113742,
+      "z": -0.05829678579415832,
+      "index": 16
+    },
+    {
+      "x": -0.34305091655822784,
+      "y": 0.9765903906315545,
+      "z": -0.06001148347077305,
+      "index": 17
+    },
+    {
+      "x": -0.4413354008619969,
+      "y": 0.9517906521872045,
+      "z": -0.061060120289359886,
+      "index": 18
+    },
+    {
+      "x": -0.5349214720616826,
+      "y": 0.9168423250733293,
+      "z": -0.06145787330512332,
+      "index": 19
+    },
+    {
+      "x": -0.6230064456521617,
+      "y": 0.8724543918167164,
+      "z": -0.06122302196220786,
+      "index": 20
+    },
+    {
+      "x": -0.7048695606522785,
+      "y": 0.8193458730156767,
+      "z": -0.06037634750907882,
+      "index": 21
+    },
+    {
+      "x": -0.7798601145517017,
+      "y": 0.7582434437976708,
+      "z": -0.058940721381145963,
+      "index": 22
+    },
+    {
+      "x": -0.847387391561104,
+      "y": 0.6898811602391745,
+      "z": -0.05694084853764406,
+      "index": 23
+    },
+    {
+      "x": -0.906912297194846,
+      "y": 0.6150018421073411,
+      "z": -0.05440313961687896,
+      "index": 24
+    },
+    {
+      "x": -0.9579406101098211,
+      "y": 0.5343597877325469,
+      "z": -0.05135569258467516,
+      "index": 25
+    },
+    {
+      "x": -1.0000177830174872,
+      "y": 0.4487245957625921,
+      "z": -0.047828370297527234,
+      "index": 26
+    },
+    {
+      "x": -1.0327252610480557,
+      "y": 0.35888594218727876,
+      "z": -0.043852965184153214,
+      "index": 27
+    },
+    {
+      "x": -1.0556783344385055,
+      "y": 0.2656592132416719,
+      "z": -0.03946344618294305,
+      "index": 28
+    },
+    {
+      "x": -1.0685256015190958,
+      "y": 0.16989192776529444,
+      "z": -0.03469628624133945,
+      "index": 29
+    },
+    {
+      "x": -1.070950187943838,
+      "y": 0.07247089645634831,
+      "z": -0.029590871100279685,
+      "index": 30
+    },
+    {
+      "x": -1.062672950106776,
+      "y": -0.025669942043478233,
+      "z": -0.02418999166060682,
+      "index": 31
+    },
+    {
+      "x": -1.0434579860650202,
+      "y": -0.12354110238050958,
+      "z": -0.018540422715117903,
+      "index": 32
+    },
+    {
+      "x": -1.0131208866510362,
+      "y": -0.22008871480356312,
+      "z": -0.012693589769242326,
+      "index": 33
+    },
+    {
+      "x": -0.9715402811135261,
+      "y": -0.3141855512112785,
+      "z": -0.006706322297132819,
+      "index": 34
+    },
+    {
+      "x": -0.9186733590406938,
+      "y": -0.4046223853512955,
+      "z": -0.0006416848909393611,
+      "index": 35
+    },
+    {
+      "x": -0.8545761678589665,
+      "y": -0.4901004406001073,
+      "z": 0.005430134413555347,
+      "index": 36
+    },
+    {
+      "x": -0.7794295613779503,
+      "y": -0.56922608968707,
+      "z": 0.011430919301375173,
+      "index": 37
+    },
+    {
+      "x": -0.6935716522232118,
+      "y": -0.6405095450049487,
+      "z": 0.01727357548250918,
+      "index": 38
+    },
+    {
+      "x": -0.5975374024927091,
+      "y": -0.7023700434932464,
+      "z": 0.022861453605464946,
+      "index": 39
+    },
+    {
+      "x": -0.4921054206358938,
+      "y": -0.7531509831987763,
+      "z": 0.028088026385875427,
+      "index": 40
+    },
+    {
+      "x": -0.37835090206884037,
+      "y": -0.7911495306053474,
+      "z": 0.032837185026546756,
+      "index": 41
+    },
+    {
+      "x": -0.2577016902497703,
+      "y": -0.8146661603697839,
+      "z": 0.03698451710872106,
+      "index": 42
+    },
+    {
+      "x": -0.13199140180299346,
+      "y": -0.8220799341090907,
+      "z": 0.04040001934899423,
+      "index": 43
+    },
+    {
+      "x": -0.003499421806198685,
+      "y": -0.8119542535224672,
+      "z": 0.04295274131004267,
+      "index": 44
+    },
+    {
+      "x": 0.12503714645902936,
+      "y": -0.7831741999849683,
+      "z": 0.04451777764174424,
+      "index": 45
+    },
+    {
+      "x": 0.25045827647376007,
+      "y": -0.7351092843292285,
+      "z": 0.04498573108224209,
+      "index": 46
+    },
+    {
+      "x": 0.36928130460522424,
+      "y": -0.6677842596968713,
+      "z": 0.044274177485081535,
+      "index": 47
+    },
+    {
+      "x": 0.477878225085861,
+      "y": -0.5820276366592437,
+      "z": 0.04233980055465697,
+      "index": 48
+    },
+    {
+      "x": 0.5727247466699108,
+      "y": -0.4795580082909947,
+      "z": 0.039188955673177504,
+      "index": 49
+    }
+  ]
+}

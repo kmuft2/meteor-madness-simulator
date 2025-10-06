@@ -1,0 +1,239 @@
+# ===================================
+# Meteor Madness Simulator - GitIgnore
+# ===================================
+
+# Environment variables (IMPORTANT: Contains API keys)
+.env
+.env.local
+.env.*.local
+
+# ===================================
+# Large Dataset Files (DO NOT COMMIT)
+# ===================================
+
+# GEBCO Bathymetry Data (3.7 GB)
+data/GEBCO_*.nc
+data/GEBCO_*.tif
+data/GEBCO_*.geotiff
+data/*.nc
+
+# WorldPop Population Data (hundreds of MB)
+data/worldpop_*/**
+data/population/**
+
+# SRTM Terrain Data
+data/srtm_*/**
+data/terrain/**
+
+# NASA Data Cache
+data/nasa/**
+data/cache/**
+
+# USGS Data Cache
+data/usgs/**
+
+# Any large data files
+*.nc
+*.hdf5
+*.h5
+*.tif
+*.tiff
+*.geotiff
+
+# ===================================
+# Python
+# ===================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ===================================
+# Node / React / Frontend
+# ===================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Production builds
+frontend/build/
+frontend/dist/
+frontend/.next/
+
+# Frontend environment
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# ===================================
+# Docker
+# ===================================
+*.log
+
+# Don't ignore Dockerfiles
+!Dockerfile*
+!docker-compose*.yml
+
+# ===================================
+# Operating System Files
+# ===================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ===================================
+# Database
+# ===================================
+*.db
+*.sqlite
+*.sqlite3
+
+# PostgreSQL
+postgres_data/
+
+# ===================================
+# Logs and temporary files
+# ===================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# ===================================
+# GPU / CUDA
+# ===================================
+# CUDA binaries
+*.cubin
+*.fatbin
+*.ptx
+
+# CUDA cache and keyrings
+cuda-keyring*
+.nv/
+.cuda/
+.cupy/
+nvcc.profile
+cuda-repo*.deb
+
+# CuPy cache
+~/.cupy/
+.cupy_kernel_cache/
+
+# CUDA compiler artifacts
+*.i
+*.ii
+*.gpu
+*.cudafe*
+*.stub.c
+*.cpp.ii
+
+# CUDA profiler outputs
+*.nvvp
+*.qdrep
+*.qdstrm
+*.nsight-*
+*.compute-sanitizer
+
+# GPU memory dumps
+core.gpu.*
+
+# ===================================
+# Scientific Computing
+# ===================================
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# ===================================
+# Documentation (Generated)
+# ===================================
+docs/_build/
+site/
+
+# ===================================
+# Backup files
+# ===================================
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# ===================================
+# Keep Important Files
+# ===================================
+# Keep README files for data directories
+!data/README.md
+!data/**/README.md
+
+# Keep example/sample data (small files only)
+!data/examples/**
+!data/samples/**
+
+# Keep documentation PDFs that are reasonably sized
+!data/GEBCO_Grid_documentation.pdf
+!data/GEBCO_Grid_terms_of_use.pdf
+
+# Keep small reference files
+!data/iso-translations.txt
+!data/VERSION
+!data/CHANGELOG

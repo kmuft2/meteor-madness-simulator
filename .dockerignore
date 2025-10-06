@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep essential ones)
+*.md
+!README.md
+
+# Test outputs
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Don't ignore data cache - we want it!
+!data/
