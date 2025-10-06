@@ -509,4 +509,3 @@ Contributions implementing these features are welcome. See Contributing section 
 
 Repository: https://github.com/Zaydo123/meteor-madness-simulator  
 Documentation: [DATA_SETUP.md](DATA_SETUP.md) | [LICENSE](LICENSE)  
-Contact: [Your Team] - NASA Space Apps Challenge 2025
